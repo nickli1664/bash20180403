@@ -1,0 +1,1 @@
+./chongdingxiang.sh: line 5: cmd: command not found
