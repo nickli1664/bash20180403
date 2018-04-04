@@ -1,0 +1,11 @@
+Script started on 2018年03月22日 星期四 11时21分11秒
+]0;root@nickli-Z170X-UD3: /home/nickli/Desktop/bash/bashnew/studyscriptroot@nickli-Z170X-UD3:/home/nickli/Desktop/bash/bashnew/studyscript# [K]0;root@nickli-Z170X-UD3: /home/nickli/Desktop/bash/bashnew/studyscriptroot@nickli-Z170X-UD3:/home/nickli/Desktop/bash/bashnew/studyscript# ls
+output.session  timing.log
+]0;root@nickli-Z170X-UD3: /home/nickli/Desktop/bash/bashnew/studyscriptroot@nickli-Z170X-UD3:/home/nickli/Desktop/bash/bashnew/studyscript# ping 19[K27.10[K[K9[K0[K[K[K[K[K[K[K[K[K[Kc[Ky[Kto[K[Kdate
+2018年 03月 22日 星期四 11:21:49 CST
+]0;root@nickli-Z170X-UD3: /home/nickli/Desktop/bash/bashnew/studyscriptroot@nickli-Z170X-UD3:/home/nickli/Desktop/bash/bashnew/studyscript# date
+2018年 03月 22日 星期四 11:21:50 CST
+]0;root@nickli-Z170X-UD3: /home/nickli/Desktop/bash/bashnew/studyscriptroot@nickli-Z170X-UD3:/home/nickli/Desktop/bash/bashnew/studyscript# exit
+exit
+
+Script done on 2018年03月22日 星期四 11时21分55秒
