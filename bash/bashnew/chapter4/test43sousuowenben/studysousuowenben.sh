@@ -14,7 +14,7 @@ echo -e "this is a word\nnext line" | grep word --color=auto  #着重标记出�
 
 echo "-----------------------"
 
-egrep " +l[a-z]+" studysousuowenben.sh       #注意，会输出匹配到的"整行"！！
+egrep " +l[a-z]+" studysousuowenben.sh       #使用正则表达式。注意，会输出匹配到的"整行"！！
 #grep -E " +l[a-z]+" studysousuowenben.sh    #效果同上
 
 echo "-----------------------"
