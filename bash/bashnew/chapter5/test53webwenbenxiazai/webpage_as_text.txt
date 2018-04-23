@@ -1,0 +1,63 @@
+    #[1]百度搜索
+   REFRESH(0 sec): [2]http://www.baidu.com/baidu.html?from=noscript
+
+   [3][USEMAP:bd_logo1.png] [4][USEMAP:bd_logo1.png?qua=high]
+   [5]到百度首页 到百度首页 ____________________ 百度一下
+   输入法
+     * [6]手写
+     * [7]拼音
+     *
+     * [8]关闭
+
+   [9]百度首页[10]设置[11]登录
+   [12]新闻[13]hao123[14]地图[15]视频[16]贴吧[17]学术[18]登录[19]设置[20]更多产品
+   网页[21]新闻[22]贴吧[23]知道[24]音乐[25]图片[26]视频[27]地图[28]文库[29]更多»
+
+   百度
+
+   [30]把百度设为主页[31]关于百度[32]About  Baidu[33]百度推广
+
+   ©2018 Baidu [34]使用百度前必读 [35]意见反馈 京ICP证030173号  [36]京公网安备11000002000001号
+
+References
+
+   1. http://www.baidu.com/content-search.xml
+   2. http://www.baidu.com/baidu.html?from=noscript
+   3. LYNXIMGMAP:http://www.baidu.com/#mp
+   4. LYNXIMGMAP:http://www.baidu.com/#mp
+   5. http://www.baidu.com/
+   6. javascript:;
+   7. javascript:;
+   8. javascript:;
+   9. http://www.baidu.com/
+  10. javascript:;
+  11. https://passport.baidu.com/v2/?login&tpl=mn&u=http://www.baidu.com/&sms=5
+  12. http://news.baidu.com/
+  13. http://www.hao123.com/
+  14. http://map.baidu.com/
+  15. http://v.baidu.com/
+  16. http://tieba.baidu.com/
+  17. http://xueshu.baidu.com/
+  18. https://passport.baidu.com/v2/?login&tpl=mn&u=http://www.baidu.com/&sms=5
+  19. http://www.baidu.com/gaoji/preferences.html
+  20. http://www.baidu.com/more/
+  21. http://news.baidu.com/ns?cl=2&rn=20&tn=news&word=
+  22. http://tieba.baidu.com/f?kw=&fr=wwwt
+  23. http://zhidao.baidu.com/q?ct=17&pn=0&tn=ikaslist&rn=10&word=&fr=wwwt
+  24. http://music.baidu.com/search?fr=ps&ie=utf-8&key=
+  25. http://image.baidu.com/search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=
+  26. http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=25&ie=utf-8&word=
+  27. http://map.baidu.com/m?word=&fr=ps01000
+  28. http://wenku.baidu.com/search?word=&lm=0&od=0&ie=utf-8
+  29. http://www.baidu.com/more/
+  30. http://www.baidu.com/cache/sethelp/help.html
+  31. http://home.baidu.com/
+  32. http://ir.baidu.com/
+  33. http://e.baidu.com/?refer=888
+  34. http://www.baidu.com/duty/
+  35. http://jianyi.baidu.com/
+  36. http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001
+
+[USEMAP]
+http://www.baidu.com/#mp
+   1. http://www.baidu.com/s?wd=%E4%BB%8A%E6%97%A5%E6%96%B0%E9%B2%9C%E4%BA%8B&tn=SE_PclogoS_8whnvm25&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pcs
