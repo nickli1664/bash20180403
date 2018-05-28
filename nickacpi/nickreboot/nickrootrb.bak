@@ -1,0 +1,36 @@
+
+
+if [[ -e "nickcur" ]];
+then
+	current=`cat nickcur`
+	total=`cat total`
+	let totalp=total+1
+else
+	exit 1
+fi
+
+if [[ $current -lt $totalp ]];
+then
+	echo "----------loop $current, total $total"
+	echo -n "----------"
+	date
+	echo -n "loop $current - " >>log
+	echo `date`>>log
+	let current++
+	echo $current>nickcur
+	sleep 60
+	reboot
+else
+	echo "----------reboot finish"
+	echo -n "----------"
+	date
+	sed -i '/gnome-terminal/d' ~/.profile
+	rm -rf "nickcur"
+	rm -rf "nickrootrb.sh"
+	#echo "#!/bin/bash" >nickrootrb.sh
+	read
+fi
+
+#date
+#sleep 60
+#reboot
